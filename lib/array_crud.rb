@@ -37,8 +37,10 @@ retrieve_element_from_index(array=["dad","BT","O.B","Kiki"],3)
 
 
 def retrieve_first_element_from_array(array)
-
+array[0]
 end
+retrieve_first_element_from_array array=["dad","BT","O.B","Kiki"]
+
 
 def retrieve_last_element_from_array(array)
 
