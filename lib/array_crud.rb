@@ -20,7 +20,7 @@ array.unshift(element)
   add_element_to_start_of_array(array=["dad","BT","O.B","Kiki"], "sisi")
 
 def remove_element_from_end_of_array(array)
-array.pop(element)
+array.pop
 end
 remove_element_from_end_of_array array=["dad","BT","O.B","Kiki"]
 
