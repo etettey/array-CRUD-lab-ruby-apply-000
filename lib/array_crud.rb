@@ -43,5 +43,6 @@ retrieve_first_element_from_array array=["dad","BT","O.B","Kiki"]
 
 
 def retrieve_last_element_from_array(array)
-
+array[array.length-1]
 end
+retrieve_last_element_from_array array=["dad","BT","O.B","Kiki"]
